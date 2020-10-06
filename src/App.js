@@ -46,7 +46,7 @@ function App() {
   return (
     <>
       <header className={classes.header}>
-        <h2 className={classes.h2}>All Posts</h2>
+        <h2 className={classes.h2}>All Posts (warning: this is a public live demo)</h2>
         <Link to="/new" className={classes.newPost}>
           New Post
         </Link>
