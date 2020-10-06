@@ -1,4 +1,4 @@
-# react-apollo-gql-example
+# React + Apollo + GraphQL example: https://vw9i2.csb.app
 
 Created with CodeSandbox: <https://codesandbox.io/s/github/hchiam/react-apollo-gql-example>
 
